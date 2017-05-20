@@ -1,22 +1,23 @@
+
 {
-  "name": "theme-hybrid-next",
-  "displayName": "Hybrid Next",
-  "description": "Hybrid Next theme for VS Code.",
-  "version": "2.2.0",
-  "publisher": "wyze",
+  "name": "theme-onedark-hybrid",
+  "displayName": "One Dark Hybrid",
+  "description": "One Dark Hybrid theme for VS Code.",
+  "version": "1.0.0",
+  "publisher": "joeynguyen",
   "engines": {
     "vscode": "^1.0.0"
   },
   "repository": {
-    "url": "https://github.com/wyze/vscode-hybrid-next"
+    "url": "https://github.com/joeynguyen/vscode-onedark-hybrid"
   },
   "bugs": {
-    "url": "wyze/vscode-hybrid-next/issues"
+    "url": "joeynguyen/vscode-onedark-hybrid/issues"
   },
   "author": {
-    "name": "Neil Kistner",
-    "email": "neil.kistner@gmail.com",
-    "url": "neilkistner.com"
+    "name": "Joey Nguyen",
+    "email": "nguyen.joeyn@gmail.com",
+    "url": "joeynguyen.com"
   },
   "license": "MIT",
   "icon": "images/icon.svg",
@@ -30,13 +31,8 @@
   "contributes": {
     "themes": [
       {
-        "label": "Hybrid Next",
-        "path": "./themes/hybrid-next.tmTheme",
-        "uiTheme": "vs-dark"
-      },
-      {
-        "label": "Hybrid Next (Gray Background)",
-        "path": "./themes/hybrid-next-graybg.tmTheme",
+        "label": "One Dark Hybrid",
+        "path": "./themes/one-dark-hybrid.tmTheme",
         "uiTheme": "vs-dark"
       }
     ]
