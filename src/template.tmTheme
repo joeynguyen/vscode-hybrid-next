@@ -156,7 +156,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{lime}</string>
+        <string>#{blue}</string>
       </dict>
     </dict>
     <dict>
@@ -333,7 +333,7 @@
         <key>fontStyle</key>
         <string>italic</string>
         <key>foreground</key>
-        <string>#{grayBlue}</string>
+        <string>#{orange}</string>
       </dict>
     </dict>
     <dict>
