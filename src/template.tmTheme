@@ -46,7 +46,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{greenYellow}</string>
+        <string>#{green}</string>
       </dict>
     </dict>
     <dict>
@@ -355,7 +355,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{greenYellow}</string>
+        <string>#{green}</string>
       </dict>
     </dict>
     <dict>
@@ -460,7 +460,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{lightBlue}</string>
+        <string>#{cyan}</string>
       </dict>
     </dict>
     <dict>
@@ -537,7 +537,7 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>Seperator Operator (S/CSS)</string>
+      <string>Separator Operator (S/CSS)</string>
       <key>scope</key>
       <string>punctuation.separator.operator</string>
       <key>settings</key>
@@ -639,7 +639,7 @@
     </dict>
     <dict>
       <key>name</key>
-      <string>Key Value Seperator (HTML)</string>
+      <string>Key Value Separator (HTML)</string>
       <key>scope</key>
       <string>
         meta.tag.inline.any.html,
@@ -955,7 +955,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{lightBlue}</string>
+        <string>#{cyan}</string>
       </dict>
     </dict>
     <dict>
@@ -1082,7 +1082,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{lightBlue}</string>
+        <string>#{cyan}</string>
       </dict>
     </dict>
   </array>
