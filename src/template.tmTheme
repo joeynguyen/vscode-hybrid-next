@@ -33,7 +33,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{grayBlue}</string>
+        <string>#{lightGray}</string>
         <key>fontStyle</key>
         <string>italic</string>
       </dict>
@@ -46,7 +46,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{green}</string>
+        <string>#{yellow}</string>
       </dict>
     </dict>
     <dict>
@@ -123,7 +123,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{teal}</string>
+        <string>#{cyan}</string>
       </dict>
     </dict>
     <dict>
@@ -134,7 +134,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{purple}</string>
+        <string>#{red}</string>
       </dict>
     </dict>
     <dict>
@@ -320,7 +320,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{yellow}</string>
+        <string>#{red}</string>
       </dict>
     </dict>
     <dict>
@@ -344,7 +344,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{yellow}</string>
+        <string>#{green}</string>
       </dict>
     </dict>
     <dict>
@@ -355,7 +355,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{green}</string>
+        <string>#{yellow}</string>
       </dict>
     </dict>
     <dict>
@@ -397,7 +397,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{yellow}</string>
+        <string>#{green}</string>
       </dict>
     </dict>
     <dict>
@@ -410,7 +410,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{yellow}</string>
+        <string>#{green}</string>
       </dict>
     </dict>
     <dict>
@@ -532,7 +532,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{yellow}</string>
+        <string>#{green}</string>
       </dict>
     </dict>
     <dict>
@@ -590,7 +590,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{grayBlue}</string>
+        <string>#{lightGray}</string>
       </dict>
     </dict>
     <dict>
@@ -612,7 +612,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{grayBlue}</string>
+        <string>#{lightGray}</string>
       </dict>
     </dict>
     <dict>
@@ -666,7 +666,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{grayBlue}</string>
+        <string>#{lightGray}</string>
       </dict>
     </dict>
     <dict>
@@ -688,7 +688,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{yellow}</string>
+        <string>#{green}</string>
       </dict>
     </dict>
     <dict>
@@ -707,7 +707,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{grayBlue}</string>
+        <string>#{lightGray}</string>
       </dict>
     </dict>
     <dict>
@@ -727,7 +727,7 @@
         <key>fontStyle</key>
         <string></string>
         <key>foreground</key>
-        <string>#{yellow}</string>
+        <string>#{green}</string>
       </dict>
     </dict>
     <dict>
@@ -851,7 +851,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{yellow}</string>
+        <string>#{green}</string>
       </dict>
     </dict>
     <dict>
@@ -865,7 +865,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{grayBlue}</string>
+        <string>#{lightGray}</string>
       </dict>
     </dict>
     <dict>
@@ -991,7 +991,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{yellow}</string>
+        <string>#{green}</string>
       </dict>
     </dict>
     <dict>
@@ -1002,7 +1002,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{yellow}</string>
+        <string>#{green}</string>
       </dict>
     </dict>
     <dict>
