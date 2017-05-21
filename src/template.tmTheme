@@ -14,7 +14,7 @@
         <key>background</key>
         <string>#{settings.background}</string>
         <key>caret</key>
-        <string>#{teal}</string>
+        <string>#{cyan}</string>
         <key>foreground</key>
         <string>#{lightGray}</string>
         <key>invisibles</key>
@@ -112,7 +112,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{teal}</string>
+        <string>#{cyan}</string>
       </dict>
     </dict>
     <dict>
@@ -145,7 +145,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{teal}</string>
+        <string>#{cyan}</string>
       </dict>
     </dict>
     <dict>
@@ -507,7 +507,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{teal}</string>
+        <string>#{cyan}</string>
       </dict>
     </dict>
     <dict>
@@ -543,7 +543,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{teal}</string>
+        <string>#{cyan}</string>
       </dict>
     </dict>
     <dict>
@@ -557,7 +557,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{teal}</string>
+        <string>#{cyan}</string>
       </dict>
     </dict>
     <dict>
@@ -568,7 +568,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{teal}</string>
+        <string>#{cyan}</string>
       </dict>
     </dict>
     <dict>
@@ -650,7 +650,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{teal}</string>
+        <string>#{cyan}</string>
       </dict>
     </dict>
     <dict>
@@ -840,7 +840,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{teal}</string>
+        <string>#{cyan}</string>
       </dict>
     </dict>
     <dict>
@@ -891,7 +891,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{teal}</string>
+        <string>#{cyan}</string>
       </dict>
     </dict>
     <dict>
@@ -1016,7 +1016,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{teal}</string>
+        <string>#{cyan}</string>
       </dict>
     </dict>
     <dict>
@@ -1071,7 +1071,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#{teal}</string>
+        <string>#{cyan}</string>
       </dict>
     </dict>
     <dict>

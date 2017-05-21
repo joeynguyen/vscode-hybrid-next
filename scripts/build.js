@@ -12,7 +12,6 @@ const pink = 'f92672' // This is base for `storage` but gets overriden
 const red = 'df6a73'
 const white = 'f8f8f0'
 const green = '98c379'
-const teal = '56b6c2'
 const orient = '025a7a'
 const gray = '282c34'
 
@@ -39,7 +38,6 @@ const base = {
   purple,
   pink,
   red,
-  teal,
   white,
   green,
 }
