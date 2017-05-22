@@ -72,3 +72,14 @@ const options, hey = {
 	},
 	qs: { q: `language:${argv.lang}`, sort: 'stars'},
 };
+
+function func(param) {
+  var text = 'string';
+  for (var i = 0; i < param.length; i++) {
+    text += i;
+  }
+  return {
+    "text": text,
+    "boolean": false
+  };
+}

@@ -12,16 +12,19 @@ const pink = 'f92672' // This is base for `storage` but gets overriden
 const red = 'df6a73'
 const white = 'f8f8f0'
 // const green = '98c379'
-const orient = '025a7a'
+// const orient = '025a7a'
 const gray = '282c34'
+const darkGray = '444649'
+const cerulean = '1083A6'
 
 const base = {
   themeLabel: 'One Dark Hybrid',
   settings: {
+    caret: cerulean,
     background: gray,
     invisibles: lightGray('26'),
-    lineHighlight: orient,
-    selection: orient,
+    lineHighlight: darkGray,
+    selection: darkGray,
   },
   markdown: {
     quote: yellow('88'),

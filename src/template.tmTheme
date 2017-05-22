@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
   <key>author</key>
-  <string>wyze</string>
+  <string>joeynguyen</string>
   <key>name</key>
   <string>{themeLabel}</string>
   <key>settings</key>
@@ -14,7 +14,7 @@
         <key>background</key>
         <string>#{settings.background}</string>
         <key>caret</key>
-        <string>#{cyan}</string>
+        <string>#{settings.caret}</string>
         <key>foreground</key>
         <string>#{lightGray}</string>
         <key>invisibles</key>
@@ -146,6 +146,17 @@
       <dict>
         <key>foreground</key>
         <string>#{cyan}</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Variable Name</string>
+      <key>scope</key>
+      <string>variable</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#{lightGray}</string>
       </dict>
     </dict>
     <dict>

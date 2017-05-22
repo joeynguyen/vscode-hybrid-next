@@ -1,4 +1,4 @@
-# Hybrid Next
+# One Dark Hybrid
 
 [![Version][version-image]][marketplace-url]
 [![Installs][installs-image]][marketplace-url]
