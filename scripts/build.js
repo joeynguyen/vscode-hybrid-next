@@ -20,7 +20,7 @@ const cerulean = '1083A6'
 const base = {
   themeLabel: 'One Dark Hybrid',
   settings: {
-    caret: cerulean,
+    caret: 'aeafad',
     background: gray,
     invisibles: lightGray('26'),
     lineHighlight: darkGray,
